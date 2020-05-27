@@ -26,6 +26,6 @@ MacOS Mojave EFI with **CLOVER Bootloader**
 
 ## BIOS Settings
 
-* BIOS: 1.15.0
+* BIOS: 1.16.2
 * MacOS Mojave 10.14.6(18G4032)
 
