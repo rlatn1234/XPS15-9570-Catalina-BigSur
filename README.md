@@ -1,4 +1,4 @@
-# DELL XPS15 9570 MacOS Mojave
+# DELL XPS15 9570 MacOS Catalina
 
 MacOS Mojave EFI with **CLOVER Bootloader**
 
@@ -27,5 +27,5 @@ MacOS Mojave EFI with **CLOVER Bootloader**
 ## BIOS Settings
 
 * BIOS: 1.16.2
-* MacOS Mojave 10.14.6(18G4032)
+* MacOS Catalina 10.15.5(19F101)
 
