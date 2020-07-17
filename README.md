@@ -1,6 +1,6 @@
 # DELL XPS15 9570 MacOS Catalina
 
-MacOS Mojave EFI with **CLOVER Bootloader**
+MacOS Catalina EFI with **CLOVER Bootloader**
 
 # HARDWARE Spec.
 
