@@ -13,6 +13,11 @@ MacOS Catalina EFI with **CLOVER Bootloader**
 * ALC298
 * DW1560
 
+## Testing
+
+* Thunderbolt 3 Localnode (firmware flash)
+
+
 ## Working
 
 | Feature | Status | Notes |
