@@ -11,7 +11,7 @@ MacOS Catalina EFI with **CLOVER Bootloader**
 * 4K INFINITYEDGE Display
 * MX500 SATA M.2
 * ALC298
-* DW1820a
+* DW1560
 
 ## Testing
 
@@ -25,12 +25,12 @@ MacOS Catalina EFI with **CLOVER Bootloader**
 | **UHD630** |  Working | Fully supported|
 | **ALC298** |  Working  | To fix headphones install [ComboJack](https://github.com/hackintosh-stuff/ComboJack/tree/master/ComboJack_Installer) |
 | **Wifi/BT** |  Working | Replace with working card will work|
-| **Thunderbolt** |  Working | Hot plug working but after sleep not working (Plug Thunderbolt or type-c device when sleep it will work)  |
+| **Thunderbolt** | Not Working | Not working |
 | **GTX1050Ti** |  X | :P |
 
 
 ## BIOS Settings
 
 * BIOS: 1.16.2
-* MacOS Catalina 10.15.5(19G2021)
+* MacOS Catalina 10.15.6(19G2021)
 
