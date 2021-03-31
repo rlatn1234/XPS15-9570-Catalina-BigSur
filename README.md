@@ -27,7 +27,7 @@ MacOS Catalina EFI with **CLOVER / Opencore Bootloader**
 | **Wifi/BT** |  Working | Replace with working card will work|
 | **Thunderbolt** | Not Working | Not working |
 | **GTX1050Ti** |  X | :P |
-| **UnderVolting** | |USe [SmartCPUKor](https://github.com/rlatn1234/smart-cpu)[SmartCPUENG](https://github.com/tctien342/smart-cpu)
+| **UnderVolting** | |Use [SmartCPUKor](https://github.com/rlatn1234/smart-cpu)  [SmartCPUENG](https://github.com/tctien342/smart-cpu)
 
 
 ## BIOS Settings
