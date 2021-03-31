@@ -2,6 +2,10 @@
 
 MacOS Catalina EFI with **CLOVER / Opencore Bootloader**
 
+Clover Bootloader supports MacOS Catalina 10.15.6(19G2021) 
+
+OpenCore Bootloader supports MacOS BigSur 11.2.3(20D91)
+
 # HARDWARE Spec.
 
 * i7-8750H
@@ -25,7 +29,7 @@ MacOS Catalina EFI with **CLOVER / Opencore Bootloader**
 | **UHD630** |  Working | Fully supported|
 | **ALC298** |  Working  | To fix headphones install [ComboJack](https://github.com/hackintosh-stuff/ComboJack/tree/master/ComboJack_Installer) |
 | **Wifi/BT** |  Working | Replace with working card will work|
-| **Thunderbolt** | Not Working | Not working |
+| **Thunderbolt** | Testing | Need more peripheral devices to test |
 | **GTX1050Ti** |  X | :P |
 | **UnderVolting** | |Use [SmartCPUKor](https://github.com/rlatn1234/smart-cpu)  [SmartCPUENG](https://github.com/tctien342/smart-cpu)
 
