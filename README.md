@@ -2,7 +2,8 @@
 
 MacOS Catalina EFI with **CLOVER / Opencore Bootloader**
 
-Clover Bootloader supports MacOS Catalina 10.15.6(19G2021) 
+Clover Bootloader supports MacOS Catalina 10.15.6(19G2021)
+
 OpenCore Bootloader supports MacOS Big Sur 11.2.3(20D91)
 
 
@@ -31,7 +32,7 @@ OpenCore Bootloader supports MacOS Big Sur 11.2.3(20D91)
 | **Wifi/BT** |  Working | Replace with working card will work|
 | **Thunderbolt** | Testing | Need more peripheral devices to test |
 | **GTX1050Ti** |  X | :P |
-| **UnderVolting** | |Use [SmartCPUKor](https://github.com/rlatn1234/smart-cpu)  [SmartCPUENG](https://github.com/tctien342/smart-cpu)
+| **UnderVolting** | Working |Use [SmartCPUKor](https://github.com/rlatn1234/smart-cpu)  [SmartCPUENG](https://github.com/tctien342/smart-cpu)
 
 
 ## BIOS Settings
