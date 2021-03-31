@@ -1,10 +1,10 @@
-# DELL XPS15 9570 MacOS Catalina
+# DELL XPS15 9570 MacOS Catalina/Big Sur
 
 MacOS Catalina EFI with **CLOVER / Opencore Bootloader**
 
 Clover Bootloader supports MacOS Catalina 10.15.6(19G2021) 
+OpenCore Bootloader supports MacOS Big Sur 11.2.3(20D91)
 
-OpenCore Bootloader supports MacOS BigSur 11.2.3(20D91)
 
 # HARDWARE Spec.
 
@@ -13,7 +13,7 @@ OpenCore Bootloader supports MacOS BigSur 11.2.3(20D91)
 * GTX1050Ti Max-Q
 * 16GB RAM
 * 4K INFINITYEDGE Display
-* MX500 SATA M.2 1TB
+* WD SN550 NVME 1TB
 * ALC298
 * DW1560
 
@@ -36,7 +36,5 @@ OpenCore Bootloader supports MacOS BigSur 11.2.3(20D91)
 
 ## BIOS Settings
 
-* BIOS: 1.16.2
-* MacOS Catalina 10.15.6(19G2021)
-
-* Upcomming  OC for Big Sur 11.1(20C69)
+* BIOS: 1.18.1
+* (Using OC) MacOS Big Sur 11.2.3(20D91)
