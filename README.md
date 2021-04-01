@@ -28,10 +28,10 @@ OpenCore Bootloader supports MacOS Big Sur 11.2.3(20D91)
 | Feature | Status | Notes |
 | ------------- | ------------- | ------------- |
 | **UHD630** |  Working | Fully supported|
-| **ALC298** |  Working  | To fix headphones install [ComboJack](https://github.com/hackintosh-stuff/ComboJack/tree/master/ComboJack_Installer) |
-| **Wifi/BT** |  Working | Replace with working card will work|
+| **ALC298** |  Working  | To fix headphones install [ALCPlugFix-Swift](https://github.com/black-dragon74/ALCPlugFix-Swift/releases/tag/1.4) |
+| **Wifi/BT** |  Working | Replace with working card will work ex) DW1560 DW1820a|
 | **Thunderbolt** | Testing | Need more peripheral devices to test |
-| **GTX1050Ti** |  X | :P |
+| **GTX1050Ti** |  X | NEVER GONNA WORK |
 | **UnderVolting** | Working |Use [SmartCPUKor](https://github.com/rlatn1234/smart-cpu)  [SmartCPUENG](https://github.com/tctien342/smart-cpu)
 
 
